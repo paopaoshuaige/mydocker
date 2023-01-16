@@ -1,0 +1,6 @@
+github.com/Sirupsen/logrus v0.8.8-0.20151204141443-446d1c146faa h1:SVjyjVKPxeZlWjE/I/8rXziR/U6a8xfFmGfB11PL7Z8=
+github.com/Sirupsen/logrus v0.8.8-0.20151204141443-446d1c146faa/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/urfave/cli v1.19.1 h1:0mKm4ZoB74PxYmZVua162y1dGt1qc10MyymYRBf3lb8=
+github.com/urfave/cli v1.19.1/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
+golang.org/x/sys v0.0.0-20151211033651-833a04a10549 h1:imXIGlmpdV8HlMP9DTrSVaxjoffgGbwFZdJl0Ous5dc=
+golang.org/x/sys v0.0.0-20151211033651-833a04a10549/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
